@@ -1,0 +1,3 @@
+[submodule "reactRotationChart"]
+	path = reactRotationChart
+	url = https://github.com/thecoolbb/reactRotationChart.git
