@@ -4,6 +4,11 @@ import Footer from '../components/Footer';
 import Title from '../components/Title';
 import RightMenu from '../components/RightMenu'
 import AdWheel from '../components/AdWheel';
+import {
+    BrowserRouter as Router,
+    Route,
+    Switch
+  } from 'react-router-dom';
 class ReactWebSite extends React.Component{
     constructor(props){
         super(props)
